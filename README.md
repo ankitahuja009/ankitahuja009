@@ -10,7 +10,7 @@ Enterprise AI delivery leader who still writes the code.
 - **Voice-cloning personalisation pipeline.** Name-personalised audio in an authorised cloned voice (ElevenLabs, orchestrated in n8n), Hindi transliteration included. 1,500+ delivered.
 - **Per-order generative imagery**, fulfilled digitally and as physical products.
 - **RAG conversational agents** embedded inside a partner organisation's mobile app.
-- **Multi-tenant learning platform** with WhatsApp messaging, co-built with two engineers across six repositories.
+- **Multi-tenant learning platform** with WhatsApp messaging, live with a coaching institute. Co-founded with two partners; I own the build across six repositories.
 
 ## How I work
 
